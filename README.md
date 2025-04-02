@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Asp.NetCore*
 
-- 📫 How to reach me *sevincmusaeva01@gmail.com*
+- 📫 How to reach me *sevinjcs@gmail.com*
 
 - ⚡ Fun fact *I am funny*
 
