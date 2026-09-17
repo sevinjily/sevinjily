@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sevinj Musaeva</h1>
-<h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevinjily&label=Profile%20views&color=0e75b6&style=flat" alt="sevinjily" /> </p>
